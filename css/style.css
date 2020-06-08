@@ -1,0 +1,62 @@
+p, h1, h2, h3, h4, h5, h6{font-family: 'Permanent Marker', cursive;}
+
+/* slideshow*/
+.mySlides{display: none}
+
+/* full screen images*/
+
+body, html {
+  height: 100%;
+}
+
+.fs-img-1 {
+  /* The image used */
+  background-image: url("../img/beach-foam-landscape-nature-533923.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-2 {
+  /* The image used */
+  background-image: url("../img/ocean-water-wave-photo-1295138.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-3 {
+  /* The image used */
+  background-image: url("../img/backlit-beach-dawn-dusk-227674.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-4 {
+  /* The image used */
+  background-image: url("../img/brown-and-white-ocean-waves-3704082.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
